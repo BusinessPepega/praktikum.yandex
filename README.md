@@ -1,7 +1,6 @@
 # praktikum.yandex
 Проекты по программе "Аналитик данных" от Яндекс.Практикум  
-Проекты выполнялись в Jupyter Notebook  
-При выполнении проектов использовались библиотеки: pandas, numpy, matplotlib, seaborn, scipy, math, plotly и др.
+Проекты выполнялись в Jupyter Notebook и использовались библиотеки: pandas, numpy, matplotlib, seaborn, scipy, math, plotly и др.
 
 ## Описание проектов:
 | Номер проекта | Название и ссылка | Описание                                                         |
